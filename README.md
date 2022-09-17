@@ -1,2 +1,2 @@
-# dio-github-primeiro-repositorio
+# DIO GitHub Primeiro Repositório
 Repositório teste.
